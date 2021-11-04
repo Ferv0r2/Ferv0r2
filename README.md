@@ -24,6 +24,10 @@ My goal is to commit every day
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
+Current Learning
+- <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Slack&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Slack&logoColor=white"/></a>
+
 ---
 
 📜 Certificate
