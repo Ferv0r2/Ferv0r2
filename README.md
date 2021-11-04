@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am WonTae Hwang who is interested in Mobile App Developer.
+I am WonTae Hwang who is interested in Mobile App Developer. ( ~ 2021-11-03 )
+I am WonTae Hwang who is interested in BlockChain Developer. ( Now )
 
 My goal is to commit every day
 
