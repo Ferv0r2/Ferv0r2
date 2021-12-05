@@ -43,14 +43,22 @@ My goal is to commit every day
 
 💪 Extracurricular activity
 
-- JOB파고 서포터즈 | 2021.06 ~ ing ( 2021.12 ) [영상크리에이터](https://coding1998.tistory.com/category/%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91)
+- JOB파고 서포터즈 | 2021.06 ~ 2021.12 [영상크리에이터](https://coding1998.tistory.com/category/%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91)
 
 ---
 
 📝 Current Main Project
 
+    : Blockchain with NFT
+- 2021.12 ~ 2022.03 with [OpenSea](https://opensea.io/)
+- Notion : [Notion](https://www.notion.so/Road-Map-9c4076bcb62a47e7b5b9f7eb157a68e5)
+
+---
+
+📝 Pre Main Project ( Ended )
+
     : 77 the Senior -> Smart app for predicting and preventing dementia using GPS and Brain-training
-- 2021.03 ~ ing ( 2021.11 ) with [ICT멘토링](https://www.hanium.or.kr/portal/index.do)
+- 2021.03 ~ 2021.11 with [ICT멘토링](https://www.hanium.or.kr/portal/index.do)
 - Notion : [Notion](https://www.notion.so/8bed43b5c040436db8bc28af704163f0?v=74646b09f6ff4957b3e0c7c62024d928)
 - TeamGantt : [TeamGantt](https://prod.teamgantt.com/gantt/schedule/?ids=2616664#&ids=2616664&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=)
 
