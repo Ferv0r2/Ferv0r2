@@ -43,7 +43,7 @@ My goal is to commit every day
 
 💪 Extracurricular activity
 
-- JOB파고 서포터즈 | 2021.06 ~ 2021.12 [영상크리에이터](https://coding1998.tistory.com/category/%EC%98%81%EC%83%81%ED%8E%B8%EC%A7%91)
+- JOB파고 서포터즈 | 2021.06 ~ 2021.12 영상크리에이터
 
 ---
 
@@ -51,7 +51,7 @@ My goal is to commit every day
 
     : Blockchain with NFT
 - 2021.12 ~ 2022.03 with [OpenSea](https://opensea.io/)
-- Notion : [Notion](https://www.notion.so/Road-Map-9c4076bcb62a47e7b5b9f7eb157a68e5)
+- Notion : [Notion](https://www.notion.so/ea7f30ed0e1f400fb0f61188032fc14a?v=06be99595f9a403b8bf9bf69bfaf41e9)
 
 ---
 
