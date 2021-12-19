@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I am WonTae Hwang who is interested in Mobile App Developer. ( ~ 2021-11-03 )
+BlockChain Developer
 
-I am WonTae Hwang who is interested in BlockChain Developer. ( Now )
-
-My goal is to commit every day
+Daily Commit
 
 - 🎓 College student ( Expected to graduate )
-- 🌱 Learning to develop Mobile apps
+- 🌱 Learning to develop Smart Contract
 
 ---
 
@@ -54,13 +52,6 @@ My goal is to commit every day
 - Notion : [Notion](https://www.notion.so/ea7f30ed0e1f400fb0f61188032fc14a?v=06be99595f9a403b8bf9bf69bfaf41e9)
 
 ---
-
-📝 Pre Main Project ( Ended )
-
-    : 77 the Senior -> Smart app for predicting and preventing dementia using GPS and Brain-training
-- 2021.03 ~ 2021.11 with [ICT멘토링](https://www.hanium.or.kr/portal/index.do)
-- Notion : [Notion](https://www.notion.so/8bed43b5c040436db8bc28af704163f0?v=74646b09f6ff4957b3e0c7c62024d928)
-- TeamGantt : [TeamGantt](https://prod.teamgantt.com/gantt/schedule/?ids=2616664#&ids=2616664&user=&custom=&company=&hide_completed=false&date_filter=&color_filter=)
 
 <!--
 **Ferv0r2/Ferv0r2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
