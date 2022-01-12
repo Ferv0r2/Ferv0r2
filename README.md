@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-BlockChain Developer
-
-Daily Commit
-
-- 🎓 College student ( Expected to graduate )
-- 🌱 Learning to develop Smart Contract
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferv0r2&&show_icons=true&theme=Default)]
 
 ---
 
