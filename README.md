@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferv0r2&&show_icons=true&theme=Default)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferv0r2&&show_icons=true&theme=Themes)
 
 ---
 
