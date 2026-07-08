@@ -1,61 +1,42 @@
-<h2 align="left">황원태 / Orbit_dev</h2>
+### 황원태
 
-<p>
-  제품의 문제 정의부터 인터랙션, 배포, 운영까지 이어 붙이는 프론트엔드 엔지니어입니다.<br />
-  Web, game UX, AI-assisted workflow를 실제로 굴러가는 제품으로 만드는 데 관심이 많습니다.
-</p>
+좋은 제품은 기능의 합보다 더 크다고 생각합니다.
+사용자가 다시 돌아오게 만드는 감각, 브랜드가 기억되는 방식, 작은 UI 결정들이 쌓여 만드는 신뢰에 관심이 많습니다.
 
-<p>
-  <a href="https://ferv0r2.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-111111?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
-  <a href="https://www.linkedin.com/in/wontae-hwang-119b62242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ferv0r2" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ferv0r2-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+프론트엔드는 그 감각이 실제 사용자의 손끝에 닿는 자리라고 봅니다.
+버튼 하나의 상태, 화면 전환의 속도, 빈 화면과 오류 문구, WebView에서 키보드가 올라왔을 때 사라지는 CTA 같은 작은 순간들이 결국 제품의 태도를 만듭니다.
+
+그래서 요즘 제가 오래 붙잡는 질문은 "무엇을 더 만들까"보다 "무엇이 좋은 제품을 만드는가"에 가깝습니다.
+문제를 정의하고, 기준을 세우고, 몰입해서 깎아내고, 끝내 세상에 내보낼 만한 상태로 만드는 일에 가장 깊게 끌립니다.
 
 ---
 
-### 지금 집중하는 것
+#### What I Care About
 
-- **Product engineering**: 불명확한 문제를 작은 실험, 화면, 운영 가능한 기능으로 쪼갭니다.
-- **Interactive UX**: WebView 게임, Godot/PixiJS, 모바일 친화적인 인터랙션을 만듭니다.
-- **AI-assisted workflow**: 에셋 파이프라인, 디자인-투-코드, 코딩 에이전트 시대의 품질 기준을 실험합니다.
-- **Writing**: 배운 것을 글과 문서로 남겨 팀이 다시 사용할 수 있게 만듭니다.
+- 제품이 사용자의 하루에 자연스럽게 들어가는 방식
+- 브랜드가 기능이 아니라 경험으로 기억되는 순간
+- 작은 UI 결정들이 반복해서 쌓는 신뢰
+- AI 시대에도 사라지지 않는 문제 정의와 제품 판단
+- 좋은 일이 어떻게 만들어지는지에 대한 집요한 관심
 
-### Selected work
+---
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| [Ferv0r2.github.io](https://ferv0r2.github.io/) | 프론트엔드, 제품 사고, AI 시대의 개발 방식 기록 | Jekyll, Markdown |
-| [seoul-challenge](https://github.com/0xkkun/seoul-challenge) | Godot 기반 게임 시스템과 에셋 워크플로우 | GDScript, Godot |
-| [tailbound-landing](https://github.com/0xkkun/tailbound-landing) | 게임 제품용 프로모션/SEO/AEO 랜딩 | TypeScript, Next.js |
-| [kepler-pop-webview](https://github.com/Ferv0r2/kepler-pop-webview) | WebView 퍼즐 게임 클라이언트 | TypeScript |
-| [kepler-wars](https://github.com/Ferv0r2/kepler-wars) | PixiJS 기반 2D 게임 실험 | TypeScript, PixiJS |
-| [figma-to-code-mcp](https://github.com/Ferv0r2/figma-to-code-mcp) | 디자인-투-코드 자동화 실험과 가이드 | TypeScript, MCP |
+#### Work
 
-### Recent writing
+보안 민감도가 높은 모바일 WebView 제품의 프론트엔드를 다룹니다.
 
-- [AI 시대의 최소 품질선](https://ferv0r2.github.io/posts/ai-minimum-quality-line/)
-- [코드는 싸졌지만, 제품은 여전히 비싸다](https://ferv0r2.github.io/posts/code-is-cheap-product-is-expensive/)
-- [에이전트 시대, 내가 하는 일의 정의가 바뀌었다](https://ferv0r2.github.io/posts/redefining-my-work-in-the-agent-era/)
-- [AI 에이전트와 함께 일한다는 것 - OpenClaw 후기](https://ferv0r2.github.io/posts/coding-agent-reality/)
+React / TypeScript 기반 제품 UI, WebView 런타임 UX, 공통 UI 레이어, Storybook 기반 품질 기준, AI agent workflow에 관심이 있습니다.
+다만 기술 자체보다, 그 기술이 제품의 신뢰와 사용자의 다음 행동을 어떻게 지탱하는지를 더 중요하게 봅니다.
 
-### Toolbox
+---
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/PixiJS-E91E63?style=flat-square&logo=pixijs&logoColor=white" alt="PixiJS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" />
-</p>
+#### Writing
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ferv0r2&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Ferv0r2 GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferv0r2&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Ferv0r2 top languages" />
-</p>
+제품, AI 시대의 작업 방식, 문제 정의, 품질선에 대해 씁니다.
+글은 [블로그](https://ferv0r2.github.io/)에 쌓아두고 있습니다.
+
+---
+
+#### Links
+
+[Blog](https://ferv0r2.github.io/) · [LinkedIn](https://www.linkedin.com/in/wontae-hwang-119b62242/)
